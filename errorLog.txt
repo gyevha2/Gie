@@ -1,0 +1,228 @@
+
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket not found: pTuARFiD3k', parameterMap=None)
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] name 'cl' is not defined
+[<module 'time' (built-in)>] name 'cl' is not defined
+[<module 'time' (built-in)>] name 'cl' is not defined
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] name 'cl' is not defined
+[<module 'time' (built-in)>] name 'cl' is not defined
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cdf0e9d26c51ce81cedee822ebda77ef0', parameterMap={'2': 'cdf0e9d26c51ce81cedee822ebda77ef0'})
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c08a3b7b45258cf55e3f4fece2906809b', parameterMap={'2': 'c08a3b7b45258cf55e3f4fece2906809b'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c08a3b7b45258cf55e3f4fece2906809b', parameterMap={'2': 'c08a3b7b45258cf55e3f4fece2906809b'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cdf0e9d26c51ce81cedee822ebda77ef0', parameterMap={'2': 'cdf0e9d26c51ce81cedee822ebda77ef0'})
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cdf0e9d26c51ce81cedee822ebda77ef0', parameterMap={'2': 'cdf0e9d26c51ce81cedee822ebda77ef0'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cdf0e9d26c51ce81cedee822ebda77ef0', parameterMap={'2': 'cdf0e9d26c51ce81cedee822ebda77ef0'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cdf0e9d26c51ce81cedee822ebda77ef0', parameterMap={'2': 'cdf0e9d26c51ce81cedee822ebda77ef0'})
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cdf0e9d26c51ce81cedee822ebda77ef0', parameterMap={'2': 'cdf0e9d26c51ce81cedee822ebda77ef0'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cdf0e9d26c51ce81cedee822ebda77ef0', parameterMap={'2': 'cdf0e9d26c51ce81cedee822ebda77ef0'})
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] name 'nadya' is not defined
+[<module 'time' (built-in)>] name 'nadya' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'nadya' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] name 'nadya' is not defined
+[<module 'time' (built-in)>] name 'nadya' is not defined
+[<module 'time' (built-in)>] name 'nadya' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] name 'ki3' is not defined
+[<module 'time' (built-in)>] name 'ki3' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] name 'ki3' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] name 'ki3' is not defined
+[<module 'time' (built-in)>] name 'ki3' is not defined
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] [Errno 110] Connection timed out
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] TalkException(code=0, reason='userid is invalid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='userid is invalid', parameterMap=None)
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] TalkException(code=0, reason='userid is invalid', parameterMap=None)
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'spaminvite @ディータ 2 2'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'spaminvite @ディータ '
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'spaminvite @hhh '
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'spaminvite @ディータ apa woi'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'spaminvite @hhh  1 3'
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] name 'kiMID' is not defined
+[<module 'time' (built-in)>] name 'ki5' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] leaveGroup() takes 2 positional arguments but 3 were given
+[<module 'time' (built-in)>] leaveGroup() takes 2 positional arguments but 3 were given
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'kiMID' is not defined
+[<module 'time' (built-in)>] name 'kiMID' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1470181357, 691249714', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
