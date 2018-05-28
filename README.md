@@ -13,9 +13,17 @@
 - `pip3 install humanfriendly`
 - `pip3 install googletrans`
 - `git clone https://githubhttps://github.com/gyevha2/Gie
-- `cd Gye`
-` python3 gi4.py`
 
-- Cara mengaktifkan bot:
+- Cara Run Bot
 - Ketik -> `cd Gye`
 - Ketik -> `python3 gi4.py`
+- Jangan Lupa Kalian isi Dulu Token nya
+- Edit via nano Atau Stoeage
+
+- untuk Run Via storage
+- cd storage
+- cd downloads
+- cd Gye
+- python3 gi4.py
+
+- thank in Line me ( aisyagye )
