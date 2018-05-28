@@ -12,10 +12,10 @@
 `pip3 install pytz`
 `pip3 install humanfriendly`
 `pip3 install googletrans`
-`git clone https://github.com/Nadyatjia/BotLinePython3`
-`cd gye`
-`python3 gye4.py`
+`git clone https://githubhttps://github.com/gyevha2/Gie'
+`cd Gye`
+`python3 gi4.py`
 
 Cara mengaktifkan bot:
-- Ketik -> `cd gye`
-- Ketik -> `python3 gye4.py`
+- Ketik -> `cd Gye`
+- Ketik -> `python3 gi4.py`
