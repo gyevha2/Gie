@@ -18,7 +18,7 @@
 - Ketik -> `cd Gye`
 - Ketik -> `python3 gi4.py`
 - Jangan Lupa Kalian isi Dulu Token nya
-- Edit via nano Atau Stoeage
+- Edit via nano Atau storage
 
 - untuk Run Via storage
 - cd storage
@@ -26,4 +26,4 @@
 - cd Gye
 - python3 gi4.py
 
-- thank in Line me ( aisyagye )
+- thank id Line me ( aisyagye )
