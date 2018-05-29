@@ -19,7 +19,7 @@ from googletrans import Translator
 # Silahkan Edit Sesukamu
 # Asalkan Rapih Dan Respon
 # jika ingin login Via qr Ganti Saja
-# Atau Lohin Via Emal
+# Atau Login Via Emal
 # Mudeng Orang kalo Ra Mudeng
 # Sungguh Terlalu
 # Jangan Lupa Add Admin 
@@ -34,8 +34,8 @@ ki3 = LINE("EtDOOeYj4Rvl5PVfOEaa.ETpCu8czFapUIJQDqIA82G.tcOaI+VmHhWwMbyDL/7yXupW
 ki4 = LINE("EtWyu42OHWKSaxPHY3yd.jTri3xzV4E2Z1xvWxjTrRq.s1oy5gbYMT2haZV7l6yzV0bp5gONcnu+bGSSJ1mbT0c=")
 
 KAC = [gye,ais,ki2,ki3,ki4]
-GUE = [ais,ki2,ki3,ki4] # ini jangan luh hapus peak inj fungsi Ciak alias kick
-#maksudnya agak bot sb/induk gak ikutan nge kick Mudeng ora
+GUE = [ais,ki2,ki3,ki4] # ini jangan luh hapus peak ini fungsi Ciak alias kick tag
+#maksudnya agar bot sb/induk gak ikutan nge kick Mudeng ora
 gyeMID = gye.profile.mid
 aisMID = ais.profile.mid
 ki2MID = ki2.profile.mid
