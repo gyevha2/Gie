@@ -49,14 +49,14 @@ admin = ["u104e95aaefb53cf411f77353f6a96ece"]
 gyeProfile = gye.getProfile()
 aisProfile = ais.getProfile()
 ki2Profile = ki2.getProfile()
-ki2Profile = ki3.getProfile()
-ki2Profile = ki4.getProfile()
+ki3Profile = ki3.getProfile()
+ki4Profile = ki4.getProfile()
 
 lineSettings = gye.getSettings()
 aisSettings = ais.getSettings()
 ki2Settings = ki2.getSettings()
-ki2Settings = ki3.getSettings()
-ki2Settings = ki4.getSettings()
+ki3Settings = ki3.getSettings()
+ki4Settings = ki4.getSettings()
 
 oepoll = OEPoll(gye)
 oepoll1 = OEPoll(ais)
